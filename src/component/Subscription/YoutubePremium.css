@@ -1,0 +1,13 @@
+.main-section {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; Align content vertically in the center */
+    height: 100%; /* Set the height to fill the viewport vertically */
+  }
+  
+  .content {
+    text-align: center;
+    max-width: 100%;
+     /* Center align the content inside the main-section */
+  }
+ 

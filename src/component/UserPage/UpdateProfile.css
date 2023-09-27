@@ -1,0 +1,29 @@
+/* UpdateProfile.css */
+
+.container {
+    padding: 100px;
+  }
+  
+  input {
+    padding: 20px;
+  }
+  
+  .btn {
+    background-color: red;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .preview {
+    padding: 50px;
+  }
+  
+  img {
+    height: 500px;
+    width: 500px;
+    border-radius: 20px;
+  }
+  

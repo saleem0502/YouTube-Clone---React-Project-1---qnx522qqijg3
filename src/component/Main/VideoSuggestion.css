@@ -1,0 +1,29 @@
+.suggestion{
+    display: flex;
+    justify-content: center;
+    width: 652px;
+    height: 220px;
+    cursor: pointer;
+ }
+ .suggestion:hover{
+    background-color: rgb(243, 242, 242);
+ }
+  .image_sugg{
+     width: 250px;
+     height: 69%;
+     border-radius: 10px;
+     margin-left: 10px;
+     margin-top: 25px;
+     cursor: pointer;
+ }
+ .description-text {
+     overflow: hidden;
+     text-overflow: ellipsis;
+   }
+
+   @media(max-width:550px){
+    .image_sugg{
+        
+        height: 75%;
+    }
+   }
